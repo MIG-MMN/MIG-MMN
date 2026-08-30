@@ -152,30 +152,6 @@ My academic background also helped me develop strong **analytical thinking, logi
 
 ---
 
-### 🚀 Experience with Technology
-
-Since **2019**, I have continuously expanded my knowledge through **studies, projects, experimentation, and hands-on development**.
-
-My journey has evolved through several stages:
-
-```text
-Fundamentals
-     ↓
-Programming
-     ↓
-Web Development
-     ↓
-Programming Languages
-     ↓
-Academic Projects
-     ↓
-Personal Projects
-     ↓
-Technology Experimentation
-     ↓
-Continuous Learning
-```
----
 
 <div align="center">
 
