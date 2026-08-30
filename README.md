@@ -22,7 +22,7 @@ I am always looking to improve my technical knowledge, explore new technologies,
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias 👾
 
 <img 
     align="left" 
